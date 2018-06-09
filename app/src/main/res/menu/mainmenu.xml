@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.menu.MainActivity" >
+
+    <item
+        android:id="@+id/fist"
+        android:title="开启/关闭蓝牙"
+        />
+
+    <item
+        android:id="@+id/second"
+        android:title="搜索蓝牙"
+        />
+
+    <item
+        android:id="@+id/third"
+        android:title="断开连接"
+        />
+    <item
+        android:id="@+id/forth"
+        android:title="发送数据"
+        />
+    <item
+        android:id="@+id/fifth"
+        android:title="修改密码"
+        />
+</menu>
